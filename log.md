@@ -40,19 +40,20 @@
 ##### (I've joined the #100DaysOfCode Challenge)
 
 **Today's Project(s)**:
-• GitHub profile
-• Twitter account tweet # 1
-• Instagram account post #1
-• Added #100Daysof Code on Taskade App
+
+1. GitHub profile
+2. Twitter account tweet #1
+3. Instagram account post #1
+4. Added #100Daysof Code on Taskade App
 
 **Today's Progress**:
 Progress: Prep work...Today was time spent on setup. This includes:
-• Setup
-o Forked the Official 100-days-of-code GitHub Repo
-o Updated my GitHub profile (@https://github.com/graciicodes)
-o Posted my first commitment on my Instagram Account (@graciicodes)
-o Updated my Twitter account going (@https://twitter.com/GraciiCodes)
-• Tweet'd my commitment to the 100-days-of-code challenge
+#Setup
+-Forked the Official 100-days-of-code GitHub Repo
+-Updated my GitHub profile (@https://github.com/graciicodes)
+-Posted my first commitment on my Instagram Account (@graciicodes)
+-Updated my Twitter account going (@https://twitter.com/GraciiCodes)
+-Tweet'd my commitment to the 100-days-of-code challenge
 
 **Thoughts:** Excited to be starting this!!!
 
