@@ -87,3 +87,28 @@ Progress: Prep work...Today was time spent on setup. This includes:
 **Thoughts:** Adding so many div’s sometimes can get confusing! Did I add the right number of closed divs ... ?? lol that was a bit a of a hassle! But I finally had the correct number of <div></div> and this plain Form with button created with Bootstrap was awesome!! I finish it .. YAY
 
 **Link to work:** My GitHub Still need to create a separate log repo
+
+---
+
+# 100 Days Of Code - Log
+
+### Day 2: April 24, 2021 - Saturday
+
+##### (I've joined the #100DaysOfCode Challenge)
+
+**Today's Project(s)**:
+
+1. Udemy Online Web Course via UDEMY The Web Developer Bootcamp 2021
+2. Created a Responsive Bootstrap Navbars
+3. Bootstrap Icons!
+4. Posted on Instagram account post #2
+5. Tweeted Day 2 on my Twitter feed
+6. Added Progress of #100Daysof Code on Taskade App
+
+**Today's Progress**:
+
+1. I wanted to get my 1 hr min in! I did it. YES! again - Updated log.md in GitHub profile (@https://github.com/graciicodes)
+2. Posted progress on my Instagram Account (@graciicodes)
+3. Tweeted on Twitter (@https://twitter.com/GraciiCodes) progress to the #100-days-of-code challenge
+   Thoughts: Created a Navbar and bootstrap Icons! Not done yet …but I wanted to get my 1 hr min in!.
+   **Link to work**: My GitHub Still need to create a separate log repo
