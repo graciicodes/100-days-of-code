@@ -112,3 +112,28 @@ Progress: Prep work...Today was time spent on setup. This includes:
 3. Tweeted on Twitter (@https://twitter.com/GraciiCodes) progress to the #100-days-of-code challenge
    Thoughts: Created a Navbar and bootstrap Icons! Not done yet …but I wanted to get my 1 hr min in!.
    **Link to work**: My GitHub Still need to create a separate log repo
+
+--
+
+# 100 Days Of Code - Log
+
+### Day 3: April 25, 2021 - Sunday
+
+##### (I've joined the #100DaysOfCode Challenge)
+
+**Today's Project(s)**:
+
+1. Online Web Course via UDEMY The Web Developer Bootcamp 2021
+2. Finished Responsive Bootstrap Navbar
+3. Posted on Instagram account post #3
+4. Tweeted Day 3 on my Twitter feed
+5. Added Progress of #100Daysof Code on Taskade App
+
+**Today's Progress**:
+
+1. Three days in a row..and going ..Dont break the streak..keep going.
+2. Updated log.md in GitHub profile (@https://github.com/graciicodes)
+3. Posted progress on my Instagram Account (@graciicodes)
+4. Tweeted on Twitter (@https://twitter.com/GraciiCodes) progress to the #100-days-of-code challenge
+   Thoughts: Always remember: “Your current situation ...Is not your final destination..Keep going. Seems like we are always in transition ... if we are moving forward. During this …. This is when we start to see these very minuscule changes start to shape our future right in front of us". unkown author ..
+   **Link to work**: My GitHub Still need to create a separate log repo
