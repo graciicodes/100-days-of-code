@@ -160,6 +160,7 @@ Progress: Prep work...Today was time spent on setup. This includes:
 2. Updated log.md in GitHub profile (@https://github.com/graciicodes)
 3. Posted progress on my Instagram Account (@graciicodes)
 4. Tweeted on Twitter (@https://twitter.com/GraciiCodes) progress to the #100-days-of-code challenge
+
    Thoughts: 🌎 “I planted the seed and Apollos watered it, but God kept it growing.” God kept it growing. …author unknown
 
    **Link to work**: My GitHub Still need to create a separate log repo
