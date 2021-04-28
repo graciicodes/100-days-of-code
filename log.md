@@ -164,3 +164,32 @@ Progress: Prep work...Today was time spent on setup. This includes:
    Thoughts: 🌎 “I planted the seed and Apollos watered it, but God kept it growing.” God kept it growing. …author unknown
 
    **Link to work**: My GitHub Still need to create a separate log repo
+
+---
+
+# 100 Days Of Code - Log
+
+### Day 5: April 27, 2021 – Tuesday
+
+##### (I've joined the #100DaysOfCode Challenge)
+
+**Today's Project(s)**:
+
+1. Online Web Course via UDEMY The Web Developer Bootcamp 2021
+2. Finished Responsive CSS Bootstrap Utilities
+3. Updated READ.ME file for Web Dev Course
+4. Posted on Instagram account post # 5
+5. Tweeted Day # 5 on my Twitter feed
+6. Added Progress of #100Daysof Code on Taskade App
+
+Today's Progress:
+
+1. I wanted to get my 1 hr min in! I did it. YES! again - Updated log.md in GitHub profile (@https://github.com/graciicodes)
+2. Posted progress on my Instagram Account (@graciicodes)
+3. Tweeted on Twitter (@https://twitter.com/GraciiCodes) progress to the #100-days-of-code challenge
+
+## Thoughts: 🔥BUILD MORE … LEARN LESS by Dorian Develops
+
+Up next: Museaum_of_Candy Project Got my 1 hr min in!.
+
+**Link to work**: My GitHub Still need to create a separate log repo
